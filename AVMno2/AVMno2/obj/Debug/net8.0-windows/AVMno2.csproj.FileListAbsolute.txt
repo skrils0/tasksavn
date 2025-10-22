@@ -1,0 +1,16 @@
+C:\Users\kitst\source\repos\AVMno2\AVMno2\bin\Debug\net8.0-windows\AVMno2.exe
+C:\Users\kitst\source\repos\AVMno2\AVMno2\bin\Debug\net8.0-windows\AVMno2.deps.json
+C:\Users\kitst\source\repos\AVMno2\AVMno2\bin\Debug\net8.0-windows\AVMno2.runtimeconfig.json
+C:\Users\kitst\source\repos\AVMno2\AVMno2\bin\Debug\net8.0-windows\AVMno2.dll
+C:\Users\kitst\source\repos\AVMno2\AVMno2\bin\Debug\net8.0-windows\AVMno2.pdb
+C:\Users\kitst\source\repos\AVMno2\AVMno2\obj\Debug\net8.0-windows\AVMno2.Form1.resources
+C:\Users\kitst\source\repos\AVMno2\AVMno2\obj\Debug\net8.0-windows\AVMno2.csproj.GenerateResource.cache
+C:\Users\kitst\source\repos\AVMno2\AVMno2\obj\Debug\net8.0-windows\AVMno2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kitst\source\repos\AVMno2\AVMno2\obj\Debug\net8.0-windows\AVMno2.AssemblyInfoInputs.cache
+C:\Users\kitst\source\repos\AVMno2\AVMno2\obj\Debug\net8.0-windows\AVMno2.AssemblyInfo.cs
+C:\Users\kitst\source\repos\AVMno2\AVMno2\obj\Debug\net8.0-windows\AVMno2.csproj.CoreCompileInputs.cache
+C:\Users\kitst\source\repos\AVMno2\AVMno2\obj\Debug\net8.0-windows\AVMno2.dll
+C:\Users\kitst\source\repos\AVMno2\AVMno2\obj\Debug\net8.0-windows\refint\AVMno2.dll
+C:\Users\kitst\source\repos\AVMno2\AVMno2\obj\Debug\net8.0-windows\AVMno2.pdb
+C:\Users\kitst\source\repos\AVMno2\AVMno2\obj\Debug\net8.0-windows\AVMno2.genruntimeconfig.cache
+C:\Users\kitst\source\repos\AVMno2\AVMno2\obj\Debug\net8.0-windows\ref\AVMno2.dll
