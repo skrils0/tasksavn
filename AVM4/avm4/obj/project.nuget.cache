@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JZjxJeBE/6Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kitst\\source\\repos\\avm4\\avm4\\avm4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kitst\\.nuget\\packages\\zedgraph\\5.2.1\\zedgraph.5.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
